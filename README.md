@@ -9,7 +9,7 @@ It is designed around a **NAO robot** acting as a friendly healthcare companion,
 
 ## 📊 Dataset Overview  
 - **Samples**: ~1,500  
-- **Intents**: 4 (`greetings`, `diagnosis`, `treatment`, `precautions`)  
+- **Intents**: 4 (`consultation`, `treatment`, `support`, `research`)  
 - **Format**: JSONL (`nao_dataset.jsonl`)  
 - **Style**: Instruction-tuning (prompt → completion)  
 
